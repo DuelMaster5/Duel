@@ -1,0 +1,19 @@
+{
+  "chainId": 101,
+  "address": "E67Jw5S7BouV6oirLGdSKaR8bgv2e6cw9MZgWfF6RLk8",
+  "symbol": "DUEL",
+  "name": "Duel -Fight with your own NFT-",
+  "decimals": 0,
+  "logoURI": "https://github.com/DuelMaster5/Duel/blob/main/LOGO.png?raw=true",
+  "tags": [
+    "NFT",
+    "Airdrop",
+    "Meme"
+  ],
+  "extensions": {
+    "description": "Here is an exclusive card battle with your own NFT. Let's dive in deeper!",
+    "telegram": "https://t.me/duel_ann",
+    "twitter": "https://twitter.com/DuelMaster55",
+    "website": "https://www.duel.ink/"
+  }
+}
